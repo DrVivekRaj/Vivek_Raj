@@ -1,3 +1,3 @@
 ---
-premalink: /vivekraj.html
+premalink: /index.html
 ---
