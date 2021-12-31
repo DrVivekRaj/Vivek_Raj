@@ -1,0 +1,42 @@
+body {
+    background-color: powderblue;
+}
+
+#dotted {
+    height: 3px;;
+    width: 5%;
+    border-style: none ;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: grey;
+}
+
+h2 {
+    font-family: cursive;
+    width: 100%;
+    
+}
+hr {
+    border-style: grrove;
+    width: 48%;
+    border-color: grey;
+
+}
+
+.sir {
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-width: 5px;
+    border-color: gray;
+}
+
+img {
+    border-radius: 100%;
+}
+
+.last {
+    background-color: whitesmoke;
+    width: 30;
+}
+
